@@ -1,5 +1,7 @@
 # Product Management API
 
+AKA: CatalogCraft
+
 A RESTful API built with Node.js, Express, and MySQL for managing product information.
 
 ## Project Setup
